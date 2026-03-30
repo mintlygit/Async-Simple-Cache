@@ -1,6 +1,8 @@
 #  AsyncSimpleCache (ASC)
 [![License](https://img.shields.io/github/license/mintlygit/Async-Simple-Cache.svg)](https://github.com/mintlygit/Async-Simple-Cache/blob/main/LICENSE)
-
+![GitHub Repo stars](https://img.shields.io/github/stars/mintlygit/Async-Simple-Cache)
+![GitHub issues](https://img.shields.io/github/issues/mintlygit/Async-Simple-Cache)
+![GitHub top language](https://img.shields.io/github/languages/top/mintlygit/Async-Simple-Cache)
 
 **Умный кэш для асинхронных функций с поддержкой TTL**
 
