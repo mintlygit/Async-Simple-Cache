@@ -1,11 +1,6 @@
-# 🚀 AsyncSimpleCache
-
-[![PyPI version](https://badge.fury.io/py/async-simple-cache.svg)](https://badge.fury.io/py/async-simple-cache)
-[![Python Version](https://img.shields.io/pypi/pyversions/async-simple-cache.svg)](https://pypi.org/project/async-simple-cache)
+#  AsyncSimpleCache (ASC)
 [![License](https://img.shields.io/github/license/mintlygit/Async-Simple-Cache.svg)](https://github.com/mintlygit/Async-Simple-Cache/blob/main/LICENSE)
-[![Tests](https://github.com/mintlygit/Async-Simple-Cache/workflows/Tests/badge.svg)](https://github.com/mintlygit/Async-Simple-Cache/actions)
-[![Code Coverage](https://codecov.io/gh/mintlygit/Async-Simple-Cache/branch/main/graph/badge.svg)](https://codecov.io/gh/mintlygit/Async-Simple-Cache)
-[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+
 
 **Умный кэш для асинхронных функций с поддержкой TTL**
 
